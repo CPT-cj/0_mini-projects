@@ -16,10 +16,15 @@ A collection of small, practical projects built with **React**, **JavaScript**, 
 
 | 1 | **Login Page** | login form using HTML, CSS | [View](1_login-page) |
 
-| 2 | **Grid Layout** | Responsive page using CSS Grid | [View](2_page-with-grid) |
+| 3 | **Grid Layout** | Responsive page using CSS Grid | [View](3_page-with-grid) |
 
 | 4 | **ToDo List** | Todo list using tailwind css, js | [View](4_ToDo-List) |
 
+| 5 | **Rick and Morty** | Character gallery with API | [View](5_rick%20and%20morthy) |
+
+| 6 | **Jildy Mini App** | Mini utility app | [View](6_jildy.project/mini-app) |
+
+| 7 | **Degree Counter** | Temperature converter | [View](7_degreeCounter/degree-app) |
 
 ---
 
