@@ -12,7 +12,7 @@ A collection of small, practical projects built with **React**, **JavaScript**, 
 
 | 1 | **Login Page** | login form using HTML, CSS | [View](1_login-page) |
 
-| 1 | **project2** | product card using HTML, CSS, js | [View](1_login-page) |
+| 2 | **mini-project2** | product card using HTML, CSS, js | [View](2_mini-project2) |
 
 | 3 | **Grid Layout** | Responsive page using CSS Grid | [View](3_page-with-grid) |
 
