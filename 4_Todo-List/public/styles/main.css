@@ -1,0 +1,47 @@
+.imageee {
+  background-image: url("../sourses/pxfuel.jpg");
+  background-position: center 27vh;
+  background-size: 100vh;
+}
+ul li {
+  position: relative;
+  display: flex;
+  align-items: center;
+  color: #777;
+  cursor: pointer;
+}
+ul li::before {
+  content: "";
+  position: absolute;
+  height: 18px;
+  width: 18px;
+  border-radius: 50%;
+  background-image: url(../sourses/unchecked.png);
+  background-position: center;
+  background-size: cover;
+  left: 7px;
+  top: 7.5px;
+  cursor: pointer;
+}
+ul li.checked {
+  text-decoration: line-through;
+}
+ul li.ckecked::before {
+  background-image: url(../sourses/checked.png);
+}
+ul li span {
+  position: absolute;
+  right: 5px;
+  top: 5px;
+  width: 18px;
+  height: 18px;
+  font-size: 22px;
+  color: #555;
+  line-height: 18px;
+  text-align: center;
+}
+ul li span:hover {
+  background: #cfd0d1;
+  cursor: pointer;
+  transition: all 150ms 75ms ease-in;
+}
